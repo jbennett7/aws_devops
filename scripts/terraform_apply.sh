@@ -1,4 +1,4 @@
 ssh ubuntu@terraform "
 cd aws_devops
-terraform apply
+terraform apply -auto-approve
 "
